@@ -1,3 +1,4 @@
+# this is shopping cart code
 # dict for storing the stock
 mensSection = {"Shirt" : 200  , "Hoodie" : 1102}
 womenSection = {"saree" : 2000 , "dress" : 1000}
