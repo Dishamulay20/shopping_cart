@@ -2,6 +2,6 @@
 
 This is an e-commerce website designed to sell products online.
 
-About
+<h1>About</h1>
 
 
