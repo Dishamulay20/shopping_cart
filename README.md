@@ -1,4 +1,7 @@
 # shopping_cart
 
-Python based shopping cart includes customer as well as seller portal.
+This is an e-commerce website designed to sell products online.
+
+About
+
 
